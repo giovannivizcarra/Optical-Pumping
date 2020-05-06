@@ -1,0 +1,4 @@
+Helmholtz Coil Current (A)	RF max (MHz)	RF min (MHz)	
+0.706	2.7004	2.6969	
+0.6	2.5228	2.4	
+0.493	2.376		
